@@ -1,6 +1,6 @@
-# Computer Vision CAP5415
+# Computer Vision - CAP5415
 
-Computer Vision CAP5415 courses [2012](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/) and [2014](https://www.crcv.ucf.edu/courses/cap5415-fall-2014/) (taught by Dr. Mubarak Shah at UCF) combined into one course.
+Computer Vision - CAP5415 courses [2012](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/) and [2014](https://www.crcv.ucf.edu/courses/cap5415-fall-2014/) (taught by Dr. Mubarak Shah at UCF) combined into one course.
 
 
 ## Lectures
