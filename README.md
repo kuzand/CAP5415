@@ -33,11 +33,22 @@ Computer Vision courses CAP5415 [2012](https://www.crcv.ucf.edu/courses/cap5415-
 
 
 ## Assigments
-| # | Lecture | Slides | Video |
-| --- | --- |:---:| :---:|
+
+### 2012
+* Programming Assignment 1 ([zip](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_PA1.zip))
+* Programming Assignment 2 ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_PA2.pdf))
+* Programming Assignment 3 ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_PA3.pdf)) – Data and Sample Outputs ([zip](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_PA3_data.zip))
+* Bonus Programming Assignment ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_BonusProgramAssignment.pdf)) – Data ([zip](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_PA4_data.zip))
+
+### 2014
+* Programming Assignment 1 ([PA1.rar](https://www.crcv.ucf.edu/datasets/files/PA1.rar))
+* Programming Assignment 2 ([PA2.rar](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/PA2.rar))
+* Programming Assignment 3 ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Assignment3_1.pdf))
+* Programming Assignment 4 ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Assignment4.pdf))
+* Homework Assignment 1 ([pdf](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Homework-2014_Final.pdf))
+
 
 ## Reference Text
-
 * Mubarak Shah, [Fundamentals of Computer Vision](http://www.cs.ucf.edu/courses/cap6411/book.pdf)
 * Richard Szeliski, [Computer Vision: Algorithms and Application](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 * Emanuele Trucco, Alessandro Verri, Introductory Techniques for 3-D Computer Vision, Prentice Hall, 1998.
