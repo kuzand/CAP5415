@@ -8,7 +8,7 @@ Computer Vision CAP5415, courses [2012](https://www.crcv.ucf.edu/courses/cap5415
 
 | # | Lecture | Slides | Video | Date | Meeting time (GMT) |
 | --- | --- | --- | --- | --- | :---: |
-| 1 | Introduction to Computer Vision | [2012](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_Lecture-1-CVIntroduction.pdf)\|[2014](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CVIntroductionAugust2014.pdf) | [2012](https://www.youtube.com/watch?v=715uLCHt4jE&feature=plcp) | 31/08/2020 | 8:30am |
+| 1 | Introduction to Computer Vision | [2012](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_Lecture-1-CVIntroduction.pdf) \| [2014](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CVIntroductionAugust2014.pdf) | [2012](https://www.youtube.com/watch?v=715uLCHt4jE&feature=plcp) | 31/08/2020 | 8:30am |
 | 2 | Filtering | [2012](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_Lecture-2-Filtering.pdf) \| [2014](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Lecture-2-Filtering.pdf) | [2012](https://www.youtube.com/watch?v=1THuCOKNn6U&feature=plcp) \| [2014](https://www.youtube.com/watch?v=SYVrLncRYlU&list=UUlOghZ_xkI1km31IeoY-9Bw) | 02/09/2020 | |
 | 3 | Edge Detection | [2012](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_Lecture-3-EdgeDetection.pdf) \| [2014](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Lecture-3-EdgeDetection.pdf) | [2012](https://www.youtube.com/watch?v=lC-IrZsdTrw) \| [2014](https://www.youtube.com/watch?v=7mEiTU-XgCo) | 04/09/2020 | |
 | 4 | Matlab Tutorial | [2012](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP5415_Fall2012_matlabTutorial.zip) | [2012](https://www.youtube.com/watch?v=sm9m5QSC7Dk) | 07/09/2020 | |
